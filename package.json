@@ -1,0 +1,12 @@
+{
+  "name": "jest-windows-sample",
+  "version": "0.0.1",
+  "description": "Program to test and debug hanging jest on Windows https://github.com/facebook/jest/issues/3079",
+  "main": "index.js",
+  "repository": "https://github.com/bennett000/jest-windows-sample",
+  "author": "Michael J. Bennett",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
