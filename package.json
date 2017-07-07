@@ -6,6 +6,9 @@
   "repository": "https://github.com/bennett000/jest-windows-sample",
   "author": "Michael J. Bennett",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "jest": "^20.0.4"
   }
